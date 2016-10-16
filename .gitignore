@@ -1,1 +1,5 @@
 .idea
+.cordova/
+hooks/
+platforms/
+plugins/
